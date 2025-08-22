@@ -1,2 +1,2 @@
-# pick_and_palce
-Real Pick and Place on UR10 
+# pick_and_place
+Pick and Place
